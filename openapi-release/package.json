@@ -9,7 +9,7 @@
     "lint-fix": "eslint --fix index.js index.test.js"
   },
   "dependencies": {
-    "actions-toolkit": "^2.1.0",
+    "actions-toolkit": "^3.0.0",
     "semver": "^6.2.0"
   },
   "devDependencies": {
